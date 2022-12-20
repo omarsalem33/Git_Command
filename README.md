@@ -1,5 +1,4 @@
-# Git_Command# 
-
+# Git_Commands
 
 ### Install Git
 
