@@ -9,7 +9,7 @@ Open your terminal and run these commands
   sudo apt upgrade
   sudo apt install git
 ```
-### Git commands cheat sheet
+### Git commands sheet
 **git init :** creates a new Git repository.
 
 **git add :** add those changes to the staging area.
